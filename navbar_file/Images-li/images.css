@@ -4,6 +4,9 @@
   box-sizing: border-box;
   font-family: 'poppins', sans-serif;
 }
+body{
+  background-image: url(images/Background-image-blue.jpg);
+}
 .container{
   width: 100%;
   min-height: 100vh;
