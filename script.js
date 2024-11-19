@@ -13,57 +13,57 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
-        'title': 'فيديو طريق لمدينة في الليل مع الانوار المضيئة والاجواء الهادئة و تظهر السيارات تسير بإنتظام   ',
+        'title': ' A city road at night with bright lights and a calm atmosphere, with cars appearing to be driving regularly ',
         'name': 'manipulate text background.mp4',
         'duration': '2:47',
     },
     {
         'id': 'a2',
-        'title': 'مشهد جميل على الشاطئ يظهر غروب الشمس حيث  تظهر السماء بلون ذهبي رائع مليء بالهدوء والراحة والبحر هادئ جميل ',
+        'title': ' A beautiful scene on the beach shows the sunset, where the sky appears in a wonderful golden color, full of calm and comfort, and the sea is calm ',
         'name': 'build gauge with css.mp4',
         'duration': '2:45',
     },
     {
         'id': 'a3',
-        'title': 'طريق للسيارات في الجبال التي تقابل البحر',
+        'title': ' A car road in the mountains facing the sea ',
         'name': 'video3.mp4',
         'duration': '24:49',
     },
 
     {
         'id': 'a4',
-        'title': 'فيديو يظهر سيارة وهي تمشي ',
+        'title': ' Video shows a car driving ',
         'name': 'customize HTML5 form elements.mp4',
         'duration': '3:59',
     },
     {
         'id': 'a5',
-        'title': 'تساقط المطر على البحيرة بشكل جميل',
+        'title': ' The rain fell beautifully on the lake ',
         'name': 'custom select box.mp4',
         'duration': '4:25',
     },
     {
         'id': 'a6',
-        'title': 'تساقط المطر على اوراق الشجر الخضراء',
+        'title': ' Rain falling on green tree leaves ',
         'name': 'embed google map to contact form.mp4',
         'duration': '5:33',
     },
     {
         'id': 'a7',
-        'title': 'فيديو لمياه الشلال وهي تتساقط من الأعلى الى الأحجار.',
+        'title': ' Video of the waterfall water falling from the top onto the stones ',
         'name': 'password strength checker javascript web app.mp4',
         'duration': '0:29',
     },
 
     {
         'id': 'a8',
-        'title': 'فيديو فارغ',
+        'title': 'Black Video',
         'name': 'custom range slider.mp4',
         'duration': '1:12',
     },
     {
         'id': 'a9',
-        'title': 'فيديو فارغ',
+        'title': 'Blank Video',
         'name': 'animated shopping cart.mp4',
         'duration': '3:38',
         
